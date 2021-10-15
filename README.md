@@ -3,10 +3,14 @@
 ​    
 
 </h2> 1.Listar séries
-    	    2.Inserir série
-     	   3.Atualizar série
-    	    4.Excluir série
-    	    5.Ver série
+
+2.Inserir série
+
+3.Atualizar série
+
+4.Excluir série
+
+5.Ver série
 
 
 
